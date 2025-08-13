@@ -10,7 +10,7 @@ Turn photos of visiting/business cards into structured contacts you can download
 Contact details on paper business cards often never make it into digital address books. Manual entry is slow and error‑prone, creating friction for networking and limiting access—especially for users dealing with language barriers, low‑vision scenarios, or large backlogs of cards. This leads to lost opportunities and wasted time.
 
 ### Our solution and impact
-Card Scanner lets anyone snap or upload a card image and instantly get clean, editable contact data. It supports multilingual text (including Bengali/Bangla) and normalizes phone numbers. Users can review, tweak fields, and download a standards‑compliant vCard (VCF) in one click—eliminating manual entry and helping preserve connections.
+Card Scanner lets anyone snap or upload a card image and instantly get clean, editable contact data. It supports multilingual text and normalizes phone numbers. Users can review, tweak fields, and download a standards‑compliant vCard (VCF) in one click—eliminating manual entry and helping preserve connections.
 
 ### Intended users
 - Professionals and students who network frequently
