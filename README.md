@@ -21,13 +21,12 @@ Card Scanner lets anyone snap or upload a card image and instantly get clean, ed
 ## Key features
 
 - Image upload (drag & drop or click) with file validation (JPG/PNG, up to 10 MB)
-- Automatic QR scanning for website links on cards
+- Automatic QR scanning for website QR on cards
 - AI‑powered extraction of: name, titles, organization, phones, email, address, website
 - Phone normalization to E.164 when possible
 - Editable review form before export
 - One‑click VCF (vCard 3.0) download
 - Dark mode UI and responsive layout
-- Deployed on Vercel with built‑in Analytics
 
 ## Tech stack
 
